@@ -3,7 +3,7 @@ Frontend - React and Next JS
 Backend services - Node, Express, MongoDB, Redis
 Infra - Docker, Kubernetes on GCP
 
-Services
+**Services**
 
 auth - everything user related, sigup/signn,signout
 tickets - listing creation, editing, editability
@@ -11,7 +11,7 @@ orders - order creation/editing
 expiration - monitors order creation
 payments - handles payment success/failures
 
-Events
+**Events**
 
 1. UserCreated, UserUpdated
 2. OrderCreated, OrderCancelled, OrderExpired
