@@ -8,7 +8,7 @@ build:
   local:
     push: false
   artifacts:
-    - image: zorba11/auth
+    - image: zorba111/auth
       context: auth
       docker:
         dockerfile: Dockerfile
